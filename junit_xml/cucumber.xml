@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" tests="1">
+<testcase classname="Login Feature" name="Test Login Page" time="27.932408">
+<system-out><![CDATA[Given user is already on Login page.....................................................passed
+When title of the page is..........................................................passed
+When user clicks on Sign in.........................................................passed
+Then user enters username..........................................................passed
+Then user enters password..........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
